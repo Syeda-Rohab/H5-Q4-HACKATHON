@@ -147,7 +147,7 @@ export default function SupportPage() {
                   />
                 </div>
 
-                <div className="form-row">
+                <div className="form-row form-row-responsive">
                   <div className="form-group">
                     <label className="form-label" htmlFor="channel">
                       <span className="label-icon">🔗</span> Preferred Channel
